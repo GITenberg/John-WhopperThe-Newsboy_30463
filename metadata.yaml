@@ -1,0 +1,30 @@
+_repo: John-WhopperThe-Newsboy_30463
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30463-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clark, Thomas M. (Thomas March)
+    alias: Clark, Thomas March, Bp.
+    birthdate: 1812
+    deathdate: 1903
+    gutenberg_agent_id: '34621'
+    url: http://www.gutenberg.org/2009/agents/34621
+description: ''
+gutenberg_issued: '2009-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Newspaper vendors -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+title: 'John Whopper
+
+  The Newsboy'
+url: http://www.gutenberg.org/ebooks/30463
